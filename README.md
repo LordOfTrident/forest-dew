@@ -28,7 +28,6 @@ unsaturated. So i came up with this.
 	<img src="./palette.png" width="80%"><br>
 </p>
 
-<p align="center">
 | Name           | Hex     | Showcase |
 | -------------- | ------- | -------- |
 | Red            | #e85a66 | <img src="./res/colors/red.png" width="32px"> |
@@ -52,7 +51,6 @@ unsaturated. So i came up with this.
 | Grey 3         | #606869 | <img src="./res/colors/grey3.png" width="32px"> |
 | Dim White      | #cccccc | <img src="./res/colors/white.png" width="32px"> |
 | White          | #eaeae5 | <img src="./res/colors/bright-white.png" width="32px"> |
-</p>
 
 ## Example of use
 <p align="center">
